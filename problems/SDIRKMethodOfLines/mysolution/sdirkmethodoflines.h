@@ -1,7 +1,7 @@
 /** @file
  * @brief NPDE SDIRKMethodOfLines
- * @author Erick Schulz
- * @date 12/04/2019
+ * @author Daniil Emtsev
+ * @date 14/01/2021
  * @copyright Developed at ETH Zurich
  */
 #include <lf/assemble/assemble.h>
